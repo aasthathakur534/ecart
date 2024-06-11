@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: black;
+}
+#navbar{
+    height: 60px;
+    background-color: pink
+
+}
+button{
+    color: skyblue;
+    background-color: yellow;
+    
+
+}
+#logo{
+    color: magenta;
+    font-size: 25px;
+    font-style: italic; 
+    font-weight: 800;  
+
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+#acc{
+    font-size: 20px;
+}
+#Cart{
+    font-size: 20px;
+}
+#Con{
+    font-size: 20px;
+}
+
+
+.foot{
+    height: 150px;
+    background-color: pink;
+    text-align: center;
+    position: relative;
+    top: 300px;
+
+}
+#content{
+    height: 500px;
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: beige;
+    background-image: url("shoess.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: 900;
+
+    
+    
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: beige;
+    background-image: url("denim.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: 900;
+}
+div{
+   animation-name: colorAnimate;
+   animation-duration: 3s;
+   animation-delay: 0s;
+   animation-iteration-count: 100000;
+}
+#box3{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: beige;
+    background-image: url("saree.jpg");
+    background-size: cover;
+    color: white;
+    font-weight: 900;
+    
+
+}
+#box4{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: beige;
+    background-image: url("Ethinic.jpg");
+    background-size: cover;
+    color: white;
+    font-weight: 900;
+    
+}
+#box5{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: beige;
+    background-image: url("men.jpg");
+    background-size: cover;
+    color: white;
+    font-weight: 900;
+    text-align: left;
+    
+
+}
+#box6{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+    background-color: beige;
+    background-image: url("dog.png");
+    background-size: 150px;
+    background-repeat: no-repeat;
+    color: white;
+    font-weight: 900;
+    text-align: left;
+    
+
+
+}
